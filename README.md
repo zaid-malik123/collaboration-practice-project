@@ -1,2 +1,2 @@
-# Blogify
+# Blogify - with Generative AI
 
